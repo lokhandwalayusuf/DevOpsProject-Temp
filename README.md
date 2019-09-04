@@ -1,1 +1,3 @@
-# DevOpsProject-Temp
+# maven-project
+
+Simple Maven Project
